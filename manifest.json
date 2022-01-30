@@ -1,0 +1,11 @@
+{
+  "short_name": "ra-hw-10_redux_1-2-3",
+  "name": "ra-hw-10_redux-1-2-editing-filter-3-market",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]  
+}
