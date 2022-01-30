@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 # 10. Домашнее задание к лекции «Redux»
-[[GithubPages](https://igor-chazov.github.io/ra-hw-10_redux_1-2-3)]
+[![Build status](https://ci.appveyor.com/api/projects/status/dbnpeolekw23vges?svg=true)](https://ci.appveyor.com/project/igor-chazov/ra-hw-10-redux-1-2-3) [[GithubPages](https://igor-chazov.github.io/ra-hw-10_redux_1-2-3)]
 
 ---
 
