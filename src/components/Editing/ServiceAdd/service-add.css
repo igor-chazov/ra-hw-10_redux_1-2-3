@@ -1,0 +1,60 @@
+.form__label {
+  display: flex;
+}
+
+.form__input {
+  border: 1px solid #cfcfcf;
+  outline: none;
+  border-radius: 5px;
+  padding: 0.5rem 0.8rem;
+  margin-bottom: 1rem;
+}
+
+.form__input-name {
+  margin-right: 1rem;
+}
+
+.form__input:focus {
+  outline: 1px solid grey;
+  outline-offset: -1px;
+}
+
+.btn {
+  border-radius: 5px;
+  background-color: #ffffff;
+  padding: 0.5rem 0.8rem;
+  outline: none;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  transition: box-shadow 0.3s ease-out, background-color 0.3s ease-out;
+}
+
+.btn:hover {
+  box-shadow: 0 0 5px 0 grey;
+}
+
+.btn__save,
+.btn__cancel {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.btn__save {
+  background-color: #2e54ff;
+  margin-right: 1rem;
+}
+
+.btn__save:hover {
+  background-color: rgb(15, 99, 255);
+}
+
+.btn__cancel {
+  background-color: red;
+}
+
+.btn__cancel:hover {
+  background-color: #ff2e2e;
+}
+
+.btn:hover {
+  cursor: pointer;
+}

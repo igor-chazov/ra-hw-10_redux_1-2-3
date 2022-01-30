@@ -1,0 +1,8 @@
+.product-list__wrapper h2 {
+  margin-bottom: 1rem;
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+}

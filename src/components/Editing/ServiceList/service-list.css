@@ -1,0 +1,33 @@
+.service-list__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid grey;
+  border-radius: 10px;
+  padding: 0.5rem 1rem;
+  margin-bottom: 0.8rem;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.btn__edit,
+.btn__remove {
+  width: 40px;
+  height: 40px;
+  border: 1px solid grey;
+  border-radius: 50%;
+  margin: 0 0.3rem;
+}
+
+.btn__edit {
+  background-image: url("../../Editing/img/pen.svg");
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: 80%;
+}
+
+.btn__remove {
+  background-image: url("../../Editing/img/delete_red.svg");
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: 60%;
+}
